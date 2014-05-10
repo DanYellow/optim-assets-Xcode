@@ -1,0 +1,13 @@
+{
+  "name": "grunt-optim-ios",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "grunt-tinypng-compression": "*",
+    "grunt": "~0.4.4",
+    "grunt-contrib-imagemin": "~0.7.0"
+  }
+}
